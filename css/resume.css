@@ -10,6 +10,7 @@ body {
 
 @media (min-width: 992px) {
   body {
+    background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/8324.png);
     padding-top: 0;
     padding-left: 17rem; } }
 
@@ -22,7 +23,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40; }
+  color: #f31313; }
 
 h1 {
   font-size: 6rem;
@@ -38,7 +39,7 @@ h2 {
   font-size: 1.35rem; }
 
 .list-social-icons a {
-  color: #495057; }
+  color: #baeb0a; }
   .list-social-icons a:hover {
     color: #3864bd; }
   .list-social-icons a .fa-lg {
@@ -47,7 +48,7 @@ h2 {
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #211146; }
+    color: #4f12de; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
