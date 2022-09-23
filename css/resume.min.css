@@ -141,9 +141,11 @@ section.resume-section .resume-item .resume-date {
         padding-bottom: 3rem !important
     }
 }
-
+/* side bar */
 .bg-primary {
-    background-color: #dc2359 !important
+    /* background-image: url(/img/pinky.jpg);
+    object-fit: cover; */
+    background-color: #dc235bf5 !important
 }
 
 .text-primary {

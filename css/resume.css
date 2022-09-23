@@ -6,7 +6,7 @@
  body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #0080ff76; }
+  color: #00000076; }
 
 @media (min-width: 992px) {
   body {
@@ -41,7 +41,7 @@ h2 {
 .list-social-icons a {
   color: #dc2359; }
   .list-social-icons a:hover {
-    color: #3864bd; }
+    color: #000000; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
 
@@ -87,7 +87,7 @@ h2 {
             display: block; } }
 
 section.resume-section {
-  border-bottom: 1px solid #167ce3;
+  border-bottom: 1px solid #000000;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
@@ -108,9 +108,9 @@ section.resume-section {
   background-color: #bd38a2 !important; }
 
 .text-primary {
-  color: #3845bd !important; }
+  color: #000000 !important; }
 
 a {
   color: #5938bd; }
   a:hover, a:focus, a:active {
-    color: #272c82; }
+    color: #000000; }
